@@ -1,4 +1,5 @@
-
+from roster import student_roster
+import itertools
 # Import modules above this line
 class ClassroomOrganizer:
   def __init__(self):
